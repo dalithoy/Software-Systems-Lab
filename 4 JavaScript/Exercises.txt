@@ -1,0 +1,1 @@
+There are no standalone lab exercises for this week, as several examples (https://www.w3schools.com/js/js_examples.asp), exercises (https://www.w3schools.com/js/js_exercises.asp) and a quiz (https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) are integrated into the tutorial.
